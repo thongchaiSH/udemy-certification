@@ -37,3 +37,7 @@
 - Test Spring Framework Applications with JUnit 5 and Mockito
 - Write Unit Tests with Spring MVC Test
 - Learn to use testing features of Spring Boot
+
+# [Modern Java - Learn Java 8 features by coding it](./UC-cb869189-bfe4-4fdd-90f8-ddd4e761326d.pdf)
+- 11 total hours
+- Learn Lambdas, Streams , new Date APIs, Optionals and Parallel programming in Java 8 by coding it.
