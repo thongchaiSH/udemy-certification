@@ -1,4 +1,13 @@
 # Udemy certification :page_facing_up:
+## [NestJS Zero to Hero - Modern TypeScript Back-end Development](./UC-bfb7aa81-c45f-4888-91f7-9676f61c2454.pdf)
+- 8.5 hour
+- Becoming familiar with the NestJS framework and its components
+- Designing and developing REST APIs performing CRUD operations
+- Using Data Transfer Objects (DTO)
+- Database persistence with MongoDB
+- Hands-on experience with JSON Web Tokens (JWT)
+- Using GraphQL with NestJS
+
 ## [Microservices with Node JS and React](./UC-ee5cd90b-0880-4274-ac00-4291a865fc2a.pdf)
 - 54 hours 
 - Build, deploy, and scale an E-Commerce app using Microservices built with Node, React, Docker and Kubernetes
